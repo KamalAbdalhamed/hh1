@@ -1,0 +1,55 @@
+
+a{
+  text-decoration: none;
+  color: black;
+}
+.price{
+  font-size: 30px;
+  margin-right: 20px;
+  color: red;
+}
+.button-buy{
+  margin-right: 25px;
+  background-color: #ff1414;
+  border: 0;
+  font-size: 22px;
+  width: 80px;
+  color: #fff;
+  outline: 0;
+}
+.darkTheme{
+  background-color: #1e1e1e;
+  color:white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+  /* @media (prefers-color-scheme: dark) {
+  body{
+    background-color: #1e1e1e;
+    
+  }
+  *{
+    color:white
+  }
+  p{
+    color: white;
+  }
+  #back{
+    background: #1e1e1e;
+  }
+  a{
+    color: rgb(70, 135, 255);
+  }
+  div{
+    background: #1e1e1e;
+  }
+  } */
